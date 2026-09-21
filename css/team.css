@@ -1,0 +1,11 @@
+.team{
+    background-color: #F4F4FD;
+    text-align: center;
+}
+
+.team__item{
+    background-color: #FFFFFF;
+}
+.team__position{
+    color: #434455;
+}

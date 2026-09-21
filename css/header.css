@@ -1,0 +1,26 @@
+.address a{
+    color: #434455;
+    font-style: normal;
+    font-weight: 400;
+}
+.nav__links a{
+    color: #2E2F42;
+    font-style: normal;
+    font-weight: 500;
+}
+.nav__links a:hover {
+    color: #404BBF;
+    font-style: normal;
+}
+.nav__links a:focus {
+    color: #404BBF;
+    font-style: normal;
+}
+.address a:hover {
+    color: #404BBF;
+    font-style: normal;
+}
+.address a:focus {
+    color: #404BBF;
+    font-style: normal;
+}
