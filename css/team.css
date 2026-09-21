@@ -13,6 +13,7 @@ gap: 72px;
 }
 .team__position{
     color: #434455;
+    margin-top: 8px;
 }
 .team-grid {
     display: flex;

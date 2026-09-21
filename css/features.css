@@ -7,6 +7,9 @@
     display: flex;
     gap: 24px;
 }
+.features__list li{
+    width: 264px;
+}
 .features__title {
     font-weight: 500;
     font-style: normal;

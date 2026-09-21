@@ -36,15 +36,6 @@ body {
 ul{
     list-style-type: none;
 }
-.logo{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.33;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-
-}
 button{
     border: none;
     cursor: pointer;

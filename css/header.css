@@ -2,11 +2,15 @@
     color: #434455;
     font-style: normal;
     font-weight: 400;
+    display: block;
 }
 .nav__links a{
+    display: block;
     color: #2E2F42;
     font-style: normal;
     font-weight: 500;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .nav__links a:hover {
     color: #404BBF;
@@ -27,11 +31,19 @@
 .header__container{
     display: flex;
     flex-direction: row;
-    align-items: center;
-    padding: 0px 15px;
     isolation: isolate;
     margin: 0 auto;
-    max-width: 1158px;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-right: 72px;
+    padding-top: 24px;
+
 }
 .nav__links{
     display: flex;
@@ -39,6 +51,7 @@
     align-items: center;
     padding: 0px;
     gap: 40px;
+    margin-right: 320px;
     
 
 }
