@@ -24,3 +24,36 @@
     color: #404BBF;
     font-style: normal;
 }
+.header__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+    isolation: isolate;
+    margin: 0 auto;
+
+    width: 1158px;
+    max-width: 1158px;
+    height: 72px;
+
+}
+.nav__links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+    
+
+}
+.address{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+
+    margin: 0 auto;
+
+}
