@@ -3,6 +3,8 @@
     font-style: normal;
     font-weight: 400;
     display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .nav__links a{
     display: block;
