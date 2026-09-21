@@ -25,9 +25,7 @@ padding: 0px;
 width: 360px;
 min-width: 288px;
 max-width: 360px;
-height: 420px;
-min-height: 360px;
-max-height: 420px;
+
 
 
 background: #FFFFFF;
@@ -37,5 +35,32 @@ flex: none;
 order: 0;
 flex-grow: 1;
 
+}
+
+.portfolio-card__content {
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
+    border-bottom: 1px solid #e7e9fc;
+    padding: 32px 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.portfolio h2 {
+    margin-bottom: 72px;
+}
+
+.portfolio-card__content h3 {
+    margin: 0 0 8px 0;
+}
+.portfolio-card__content p {
+    margin: 0;
+}
+
+
+.portfolio-card img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 

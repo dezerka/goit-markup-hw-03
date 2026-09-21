@@ -73,6 +73,18 @@ color: #2E2F42;
   max-width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
-  margin-left: 141px;
-  margin-right: 141px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sr-only {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  margin: -1px;
 }
